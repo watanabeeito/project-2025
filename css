@@ -1,2 +1,2 @@
-th,td{ border: dashed thick black; }
+th,td{border-collapse: collapse;}
 th,td{border: 1px solid #999; width: 6rem;}
